@@ -1,4 +1,4 @@
-# Del 2 i Juljakten
+# Del 3 i Juljakten
 
 Här finns en skiffertext med ett medelande som kan hjälpa er framåt.
 Det finns även ett par program för att hjäpa er på traven att kunna lösa skiffret.
